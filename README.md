@@ -90,9 +90,9 @@ Hands-on End-to-End automation exercises built with Playwright and JavaScript.
 
 ### 🌐 AS Estudio
 
-A modern and responsive website created for a photography studio using HTML and Tailwind CSS.
+Responsive website designed and developed for a professional photography studio.
 
-I designed and developed the complete site, focusing on clean aesthetics, responsiveness, and user experience.
+This repository showcases my work on the project's design and front-end development using HTML and Tailwind CSS.
 
 🔗 Live Demo:
 https://alejandrasiverio.github.io/as-estudio/
