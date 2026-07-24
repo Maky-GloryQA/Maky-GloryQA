@@ -1,12 +1,19 @@
-# 👋 Hi, I'm McGlory Tovar
+# 👋 Hi, I'm Glory
 
-### QA Analyst | QA Automation | Industrial Maintenance Planner
+<h3 align="center">
+  QA Analyst (Manual & Automation) | Industrial Maintenance Planner
+</h3>
+<h3 align="center">
+  😊 and Sometimes Web Design Enthusiast 😊
+</h3>
 
 Welcome to my GitHub!
 
 I'm a QA Analyst with a background in Industrial Maintenance Engineering and over 15 years of experience in planning, process optimization, and continuous improvement.
 
-Today, I'm focused on expanding my skills in **QA Automation**, building practical projects with **Playwright** and **JavaScript**, while continuously learning modern testing practices.
+Today, I'm focused on expanding my skills in QA Automation, building practical projects with Playwright and JavaScript, while continuously learning modern testing practices.
+
+Beyond test automation, I also enjoy creating clean and responsive websites and portfolio pages using HTML, CSS and Tailwind CSS. I like combining functionality with simple, elegant design to deliver a better user experience.
 
 ---
 📜 Certifications
@@ -39,11 +46,14 @@ Today, I'm focused on expanding my skills in **QA Automation**, building practic
 ![Selenium IDE](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### Languages
+### Programming & Markup
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Tools & Platforms
 
@@ -54,11 +64,10 @@ Today, I'm focused on expanding my skills in **QA Automation**, building practic
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![TestLink](https://img.shields.io/badge/TestLink-2C3E50?style=for-the-badge&logo=testlink&logoColor=white)
 
----
+
 ### 📊 Productivity & Analytics
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 
 ---
 
@@ -72,11 +81,21 @@ My objective is to build reliable, maintainable, and scalable automated tests wh
 
 ## 📂 Featured Projects
 
-🎭 Playwright Tests Practice
+### 🎭 Playwright Tests Practice
 
-A collection of end-to-end automation exercises using Playwright.
+Hands-on End-to-End automation exercises built with Playwright and JavaScript.
 
-More projects coming soon...
+🔗 https://github.com/Maky-GloryQA/playwright-tests-practice
+
+
+### 🌐 AS Estudio
+
+A modern and responsive website created for a photography studio using HTML and Tailwind CSS.
+
+I designed and developed the complete site, focusing on clean aesthetics, responsiveness, and user experience.
+
+🔗 Live Demo:
+https://alejandrasiverio.github.io/as-estudio/
 
 ---
 
@@ -85,6 +104,8 @@ More projects coming soon...
 I enjoy solving problems, improving processes, and learning new technologies.
 
 My previous experience in industrial maintenance taught me to analyze systems, identify risks, and focus on quality—skills that naturally complement my work in software testing.
+
+Beyond QA Automation, I also enjoy designing and building clean, responsive websites as personal projects. It's a creative way for me to combine technology, design, and user experience while continuing to learn.
 
 I believe continuous learning is one of the most valuable qualities in technology.
 
