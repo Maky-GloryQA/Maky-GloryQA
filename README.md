@@ -18,11 +18,11 @@ Beyond test automation, I also enjoy creating clean and responsive websites and 
 ---
 📜 Certifications
 <p align="center">
-  <a href="https://www.credly.com/badges/8379ed93-58c8-4256-a309-8bb0c3e010f7/public_url">
+  <a href="https://www.credly.com/badges/8379ed93-58c8-4256-a309-8bb0c3e010f7/public_url" target="_blank">
     <img src="./1.png" alt="ISTQB CTFL" width="140">
   </a>
 
-  <a href="https://www.credly.com/badges/37f72eef-52a5-4e07-812b-7b3e1e1a759a/public_url">
+  <a href="https://www.credly.com/badges/37f72eef-52a5-4e07-812b-7b3e1e1a759a/public_url" target="_blank">
     <img src="./2.png" alt="Scrum Master Professional Certificate" width="140">
   </a>
 </p>
@@ -113,6 +113,11 @@ I believe continuous learning is one of the most valuable qualities in technolog
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: *https://www.linkedin.com/in/mcglorytovar-t3st3rqa/*
+<p>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/mcglorytovar-t3st3rqa/" target="_blank">
+    McGlory Tovar
+  </a>
+</p>
 
 🌎 Location: <img src="https://flagcdn.com/w40/ar.png" width="20"> Argentina /  <img src="https://flagcdn.com/w40/cl.png" width="20"> Chile
