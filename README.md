@@ -1,199 +1,97 @@
-# 🎭 Playwright Tests Practice
+# 👋 Hi, I'm McGlory Tovar
 
-![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?logo=playwright&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github)
+### QA Analyst | QA Automation | Industrial Maintenance Planner
 
-## 📖 About the Project
+Welcome to my GitHub!
 
-This repository contains my hands-on practice with **Playwright**, focusing on End-to-End (E2E) test automation using JavaScript.
+I'm a QA Analyst with a background in Industrial Maintenance Engineering and over 15 years of experience in planning, process optimization, and continuous improvement.
 
-The goal of this project is to strengthen my automation skills by implementing real-world testing scenarios while following Playwright best practices.
+Today, I'm focused on expanding my skills in **QA Automation**, building practical projects with **Playwright** and **JavaScript**, while continuously learning modern testing practices.
+
+---
+📜 Certifications
+<p align="center">
+  <a href="https://www.credly.com/badges/8379ed93-58c8-4256-a309-8bb0c3e010f7/public_url">
+    <img src="./1.png" alt="ISTQB CTFL" width="140">
+  </a>
+
+  <a href="https://www.credly.com/badges/37f72eef-52a5-4e07-812b-7b3e1e1a759a/public_url">
+    <img src="./2.png" alt="Scrum Master Professional Certificate" width="140">
+  </a>
+</p>
+
+---
+## 🚀 Currently Learning
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Test Automation](https://img.shields.io/badge/Test_Automation-6A1B9A?style=for-the-badge)
+![End-to-End Testing](https://img.shields.io/badge/E2E_Testing-4CAF50?style=for-the-badge)
 
 ---
 
-## 🚀 Technologies
+## 🛠 Tech Stack
 
-- 🎭 Playwright
-- ☕ JavaScript
-- 🟢 Node.js
-- 🌐 Git & GitHub
-- 💻 Visual Studio Code
+### Testing
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium IDE](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![TestLink](https://img.shields.io/badge/TestLink-2C3E50?style=for-the-badge&logo=testlink&logoColor=white)
+
+---
+### 📊 Productivity & Analytics
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ---
 
-## 📂 Project Structure
+## 🌱 My Goal
 
-```text
-playwright-tests-practice/
-│
-├── tests/
-│   └── e2e-ecommerce.spec.js
-│
-├── playwright.config.js
-├── package.json
-├── package-lock.json
-└── README.md
-```
+I'm actively growing my skills in QA Automation by creating hands-on projects and exploring new testing techniques.
+
+My objective is to build reliable, maintainable, and scalable automated tests while continuing to grow as a QA professional.
 
 ---
 
-## ✅ Test Scenarios
+## 📂 Featured Projects
 
-### Authentication
+🎭 Playwright Tests Practice
 
-- Login with valid credentials
-- Login with invalid credentials
-- Required field validation
-- Logout
+A collection of end-to-end automation exercises using Playwright.
 
-### Product Validation
-
-- Verify product listing
-- Verify empty product list
-- Backend response mocking
-- Unauthorized access (HTTP 403)
-- Error handling scenarios
-
-### Playwright Concepts
-
-- Locators
-- Assertions
-- Hooks (`beforeEach`)
-- Route Interception
-- API Mocking
-- HTML Reports
-- Debugging
-- Network Inspection
+More projects coming soon...
 
 ---
 
-## 📦 Installation
+## 💡 A Little About Me
 
-Clone the repository
+I enjoy solving problems, improving processes, and learning new technologies.
 
-```bash
-git clone https://github.com/Maky-GloryQA/playwright-tests-practice.git
-```
+My previous experience in industrial maintenance taught me to analyze systems, identify risks, and focus on quality—skills that naturally complement my work in software testing.
 
-Go to the project folder
-
-```bash
-cd playwright-tests-practice
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Install Playwright browsers
-
-```bash
-npx playwright install
-```
+I believe continuous learning is one of the most valuable qualities in technology.
 
 ---
 
-## ▶️ Running the Tests
+## 📫 Let's Connect
 
-Run all tests
+💼 LinkedIn: *https://www.linkedin.com/in/mcglorytovar-t3st3rqa/*
 
-```bash
-npx playwright test
-```
-
-Run in headed mode
-
-```bash
-npx playwright test --headed
-```
-
-Run using Playwright UI
-
-```bash
-npx playwright test --ui
-```
-
-Run a specific test file
-
-```bash
-npx playwright test tests/e2e-ecommerce.spec.js
-```
-
----
-
-## 📊 HTML Report
-
-After running the tests, open the HTML report:
-
-```bash
-npx playwright show-report
-```
-
----
-
-## 📚 Skills Practiced
-
-- End-to-End Testing
-- UI Automation
-- Assertions
-- Test Organization
-- Hooks
-- Backend Mocking
-- Route Interception
-- HTTP Status Validation
-- DOM Inspection
-- Debugging
-- Git Workflow
-
----
-
-## 📈 Learning Progress
-
-### ✔️ Completed
-
-- [x] Playwright Installation
-- [x] JavaScript Basics
-- [x] Locators
-- [x] Assertions
-- [x] Hooks
-- [x] Login Tests
-- [x] Product Tests
-- [x] Backend Mocking
-- [x] HTTP Error Scenarios
-- [x] HTML Reports
-
-### 🔄 Coming Next
-
-- [ ] Page Object Model (POM)
-- [ ] Fixtures
-- [ ] Data-Driven Testing
-- [ ] API Testing
-- [ ] Authentication
-- [ ] Cross-Browser Testing
-- [ ] CI/CD with GitHub Actions
-
----
-
-## 🎯 Purpose
-
-This repository is part of my QA Automation learning journey.
-
-Each new commit represents a new concept learned and applied using Playwright.
-
-The project will continue to grow as I explore more advanced automation techniques.
-
----
-
-## 👩‍💻 Author
-
-**McGlory Tovar**
-
-QA Analyst | Learning QA Automation
-
-📍 Argentina
-
-🔗 GitHub: https://github.com/Maky-GloryQA
+🌎 Location: <img src="https://flagcdn.com/w40/ar.png" width="20"> Argentina /  <img src="https://flagcdn.com/w40/cl.png" width="20"> Chile
